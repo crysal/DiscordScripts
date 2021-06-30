@@ -1,11 +1,7 @@
 # DiscordScripts
 Where I put all the script I made for automating some tasks in discord
 
-## discordBioUpdater.sh
-
-a script to update your "About Me" to something gotten from a file (in this case The Bee Movie script)
-
-#### To get mfa/authorization token
+## How to get mfa/authorization token
 
   1. open discord (either the app or in a browser)
   2. open the inspect tool (in app "Ctrl + shift + i", in browser "f12")
@@ -15,5 +11,11 @@ a script to update your "About Me" to something gotten from a file (in this case
   6. in the "headers" tab, scroll down and look for "authorization" under the "Request Headers"
   7. copy that into where you need it
 <img src=/img/tokenGet.PNG>
+
+## discordBioUpdater.sh
+
+a script to update your "About Me" to something gotten from a file (in this case The Bee Movie script)
+
+
 
 ***todo: make readme***
