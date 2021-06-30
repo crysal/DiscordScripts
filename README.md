@@ -7,4 +7,4 @@ a script to update your "About Me" to something gotten from a file (in this case
 
 
 
-todo: make readme
+***todo: make readme***
