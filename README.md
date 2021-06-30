@@ -14,5 +14,6 @@ a script to update your "About Me" to something gotten from a file (in this case
   5. look for a line with the name "science" or "https://discord.com/api/v9/science".. click it
   6. in the "headers" tab, scroll down and look for "authorization" under the "Request Headers"
   7. copy that into where you need it
+<img src=/img/tokenGet.PNG>
 
 ***todo: make readme***
